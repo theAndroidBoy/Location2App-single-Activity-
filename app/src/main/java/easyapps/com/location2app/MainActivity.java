@@ -44,8 +44,6 @@ public class MainActivity extends AppCompatActivity
         longitudeTextView = findViewById(R.id.longitude);
 
         buildGoogleApiClient();
-
-
     }
 
     @Override
